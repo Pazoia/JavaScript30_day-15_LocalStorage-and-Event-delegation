@@ -77,3 +77,24 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.clear-list {
+  margin-top: 15px;
+  padding: 10px;
+  outline: 0;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.check-all {
+  margin-top: 15px;
+  padding: 10px;
+  outline: 0;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.uncheck-all {
+  margin-top: 15px;
+  padding: 10px;
+  outline: 0;
+  border: 1px solid rgba(0, 0, 0, 0.1);  
+}
